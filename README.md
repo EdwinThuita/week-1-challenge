@@ -60,5 +60,4 @@ Please use specific bugs and errors.
 ## License
 [IST](https://opensource.org/licenses/ISC)
 ## Author
-[Edwin Maina](https://github.com/AlexTanui)
-Enjoy my code and fork
+[Edwin Maina](https://github.com/EdwinThuita)
