@@ -3,7 +3,7 @@
 This code challenge was used to test our knowledge and skills in HTML, CSS and JavaScript. In this challenge we were required to create three application that i have uplodaded them in diffeferent folders. 
 Every folder contains a html, css , JS and Package.json
 ## Running The Live Hosted Application
-* open this [link](https://week-one-code-challenge.netlify.app/) on your browser to access the live web application
+* open this [link]() on your browser to access the live web application
 * you can also follow the link on the left side of the repository below the discription
 * on the browser there are three link to individual challange
 * click on the link and input the value, click on the button below the input field to display the results.
