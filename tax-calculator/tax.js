@@ -73,3 +73,4 @@ const nhifRates = [
         return deduction;
       }
     }
+  }
