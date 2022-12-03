@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PAYE Calculator</title>
+    <link rel="stylesheet" href="tax.css" />
+  </head>
+  <body>
+    <h1>PAYE CALCULATOR</h1>
+
+    <form>
+      <div class="user_input">
+        <label>Basic Salary:</label>
+        <input id="basicSalary" type="number" />
+      </div>
+
+      <div class="user_input">
+        <label>Benefits:</label>
+        <input id="benefits" type="number" />
+      </div>
+
+      <div class="submit">
+        <button type="button" onclick="calculate();">Calculate</button>
+      </div>
+    </form>
+
+    <div id="info">
+      <div class="output">
+        <label>Gross Salary:</label>
+        <label id="grossSalary"></label>
+      </div>
+
+      <h2>Deductions</h2>
+
+      <div class="output">
+        <label>PAYE:</label>
+        <label id="paye"></label>
+      </div>
+
+      <div class="output">
+        <label>NHIF:</label>
+        <label id="nhif"></label>
+      </div>
+
+      <div class="output">
+        <label>NSSF:</label>
+        <label id="nssf"></label>
+      </div>
+
+      <h2>After Deductions</h2>
+
+      <div class="output">
+        <label>Net Salary:</label>
+        <label id="netSalary"></label>
+      </div>
+    </div>
+
+    <script src="tax.js"></script>
+  </body>
+</html>

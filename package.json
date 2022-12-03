@@ -1,0 +1,17 @@
+{
+  "name": "week-1-challenge",
+  "version": "1.0.0",
+  "description": "week-1-challenge testing on understanding of functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "speed",
+    "Tax",
+    "Grades"
+  ],
+  "author": "Edwin Maina",
+  "license": "ISC"
+}
