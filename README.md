@@ -33,7 +33,7 @@ nodejs 9.0+
 * To intall this challengeor use in your computer you can either ``clone`` or ``fork`` the project
 Open a terminal / command line interface on your computer
 * Clone the repo by using the following to create a copy on your local machine:
- `` git clone https://https://github.com/AlexTanui/week-one-code-challenge``
+ `` git clone https://github.com/EdwinThuita/week-1-challenge``
 * Change directory to the repo folder:
  `` cd /mnt/d..``
  
@@ -60,5 +60,5 @@ Please use specific bugs and errors.
 ## License
 [IST](https://opensource.org/licenses/ISC)
 ## Author
-[Alex Tanui](https://github.com/AlexTanui)
-Happy coding😎
+[Edwin Maina](https://github.com/AlexTanui)
+Enjoy my code and fork
