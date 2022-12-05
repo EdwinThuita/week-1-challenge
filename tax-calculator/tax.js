@@ -1,3 +1,4 @@
+//used 
 const nhifRates = [
     { lowerBound: 0, upperBound: 5999, deduction: 150 },
     { lowerBound: 6000, upperBound: 7999, deduction: 300 },

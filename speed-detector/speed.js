@@ -16,7 +16,7 @@ function submit() {
         alert('Licence Suspended')
       }
     }
-  
+  ////it returns the element object which in this case is the status
     const output = document.getElementById("status");
     output.textContent = status;
   }
