@@ -1,4 +1,4 @@
-//used 
+//An array of objects used to store the multiple values of NHIF rates
 const nhifRates = [
     { lowerBound: 0, upperBound: 5999, deduction: 150 },
     { lowerBound: 6000, upperBound: 7999, deduction: 300 },
@@ -18,7 +18,7 @@ const nhifRates = [
     { lowerBound: 90000, upperBound: 99999, deduction: 1600 },
     { lowerBound: 100000, upperBound: null, deduction: 1700 },
   ];
-  
+  //This is a function invoked by the calculate button
   function calculate() {
     //Get basic salary and benefits
     const basicSalary = parseInt(document.getElementById("basicSalary").value);

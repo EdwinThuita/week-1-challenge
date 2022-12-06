@@ -1,7 +1,10 @@
+//This is a function invoked by the submit button
 function submit() {
+  //HTML DOM element to read speed value in text box
     const speed = document.getElementById("speed").value;
   
     let status = 0;
+     // if statement to sort assign points to grade
   
     if (speed < 70) {
       status = "OK";
